@@ -1,3 +1,4 @@
+//komenatrz
 package org.example.logging;
 
 import org.apache.logging.log4j.LogManager;
